@@ -37,5 +37,5 @@ Voter turnout trends and participation insights
 Historical election patterns leading to the 2016 results
 
 ## 📌 Author
-### 👤 Hrishikesh Alikatte
-### 👤 Simon
+### 👤 Saanvi Karne
+### 👤 Harshitha
